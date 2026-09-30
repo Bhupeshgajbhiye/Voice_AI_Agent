@@ -1,0 +1,8 @@
+Question,Candidate Answer Summary,Score
+"Could you share your total years of experience, and how much of that is relevant to AI or software development?","The candidate has four years of experience in technology, with two years relevant to AI or software development.",7
+"What are the primary tools, frameworks, and technologies you work with on a daily basis?","The candidate primarily works with Python, orchestration frameworks like Langchain, Langraph, OpenAI and JVN APIs, FastAPI for backend, and a vector database.",8
+Tell me about a recent project you are particularly proud of. What was your role and the main challenge you solved?,The candidate built an automated agentic pipeline integrating computer vision to convert 2D architectural floor plans into 3D renders.,9
+Have you ever deployed an AI agent or any machine learning system into production?,The candidate has deployed multiple agent pipelines and rack services into production.,8
+What specific difficulties or challenges did you face during that deployment?,The candidate faced challenges with managing API rate limits and handling asynchronous streaming latency during deployment.,8
+What is your official notice period if you were to receive an offer?,The candidate's official notice period is thirty days.,7
+What is your current CTC and what are your expectations for this role?,The candidate's current CTC is six LPA and they are expecting around the same for this role based on their experience.,6
